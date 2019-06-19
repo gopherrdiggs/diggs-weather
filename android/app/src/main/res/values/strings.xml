@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">diggs-weather</string>
+    <string name="title_activity_main">diggs-weather</string>
+    <string name="package_name">app.gopherrdiggs.weather</string>
+    <string name="fileprovider_authority">app.gopherrdiggs.weather.fileprovider</string>
+    <string name="custom_url_scheme">app.gopherrdiggs.weather</string>
+</resources>

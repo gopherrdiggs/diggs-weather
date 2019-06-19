@@ -1,0 +1,7 @@
+{
+  "appId": "app.gopherrdiggs.weather",
+  "appName": "diggs-weather",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
